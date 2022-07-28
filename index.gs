@@ -1,6 +1,6 @@
 //CONFIG
 var BOT_TOKEN = "5485323552:AAFSfQI_kMLBoQQmDQ6uqCxm7gni9vxDnt0" //BOT TOKEN ANDA
-var SS_URL = "https://docs.google.com/spreadsheets/d/1_ExISFZMWGGik_qcS-vagYrPYlnLg9bOoshfpCdNczU/edit?usp=drivesdk" //URL SPREADSHEET
+var SS_URL = "https://docs.google.com/spreadsheets/d/1_ExISFZMWGGik_qcS-vagYrPYlnLg9bOoshfpCdNczU/edit#gid=0" //URL SPREADSHEET
 var SHEET_NAME = "laporan" //NAMA SHEET
 var USERS = [
 	982037820
