@@ -1,5 +1,5 @@
 //CONFIG
-var BOT_TOKEN = "5485323552:AAFSfQI_kMLBoQQmDQ6uqCxm7gni9vxDnt0" //BOT TOKEN ANDA
+var BOT_TOKEN = "5191346684:AAEhu2aXY-AOaYjIIuUZLE7u45yAHIAhWHA" //BOT TOKEN ANDA
 var SS_URL = "https://docs.google.com/spreadsheets/d/1_ExISFZMWGGik_qcS-vagYrPYlnLg9bOoshfpCdNczU/edit#gid=0" //URL SPREADSHEET
 var SHEET_NAME = "laporan" //NAMA SHEET
 var USERS = [
